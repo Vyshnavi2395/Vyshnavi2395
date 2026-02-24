@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 - 🎓 Information Technology Student  
-- 🐍 Passionate about **Python & Machine Learning**
+- 🐍 Passionate about **Python & Java**
 - 📊 Interested in **Artificial Intelligence & Machine Learning**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🚀 Building real-world ML & Full Stack projects
