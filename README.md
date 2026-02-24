@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Vyshnavi</h1>
-<h3 align="center">Python Developer | ML Enthusiast | Data Analytics & Problem Solving</h3>
+<h3 align="center">Full Stack Engineer | AI & ML Enthusiast | Problem Solving</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Data+Driven+Problem+Solver;Full+Stack+Learner&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
@@ -13,13 +13,14 @@
 
 - 🎓 Information Technology Student  
 - 🐍 Passionate about **Python & Machine Learning**
-- 📊 Interested in **Data Analytics & Predictive Modeling**
+- 📊 Interested in **Artificial Intelligence & Machine Learning**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🚀 Building real-world ML & Full Stack projects
 - 📍 Based in India  
 
 📫 **Connect with me:**  
 🔗 LinkedIn: https://linkedin.com/in/vyshnavi09  
+📧 Email: vyshuanu09@gmail.com
 
 ---
 
@@ -44,8 +45,8 @@
 ### 📊 [Customer Churn Analysis & Prediction](https://github.com/Vyshnavi2395/Customer-Churn-Analysis-Prediction---Python)
 Machine learning model to analyze customer behavior and predict churn to reduce business revenue loss.
 
-### 🏠 [House Price Prediction](https://github.com/Vyshnavi2395/House-Price-prediction)
-Regression-based ML project to estimate housing prices using real-world datasets.
+### 👁 [WatchGuard AI Surveillance (Forked Project)](https://github.com/Vyshnavi2395/watchguard-ai-surveillance)
+AI-powered surveillance system using computer vision concepts.
 
 ### 🎯 [Recommendation System in Python](https://github.com/Vyshnavi2395/Recommendation-System-in-Python)
 Built a recommendation engine inspired by platforms like Netflix & Amazon.
@@ -53,8 +54,7 @@ Built a recommendation engine inspired by platforms like Netflix & Amazon.
 ### 🛒 [MERN E-commerce Website](https://github.com/Vyshnavi2395/Mern-E-commerce-website)
 Full-stack e-commerce web application using MongoDB, Express, React & Node.js.
 
-### 👁 [WatchGuard AI Surveillance (Forked Project)](https://github.com/Vyshnavi2395/watchguard-ai-surveillance)
-AI-powered surveillance system using computer vision concepts.
+
 
 ---
 
@@ -66,13 +66,25 @@ AI-powered surveillance system using computer vision concepts.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vyshnavi2395&theme=github-dark&hide_border=true)
 ---
+---
 
-## 🌟 Current Focus
+---
 
-- Improving ML model performance  
-- Strengthening DSA & problem-solving skills  
-- Exploring AI-driven applications  
-- Building scalable backend systems  
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/vyshnavi09" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Vyshnavi2395" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:vyshuanu09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
