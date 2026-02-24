@@ -1,18 +1,81 @@
-# Hi, I'm Vyshnavi 👋
+<!-- README.md -->
 
-💻 Python Developer | ML Enthusiast
-📊 Data Analytics & Problem Solving
+<h1 align="center">Hi 👋, I'm Vyshnavi</h1>
+<h3 align="center">Python Developer | ML Enthusiast | Data Analytics & Problem Solving</h3>
 
-## 🚀 About Me
-🎓 Information Technology student  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Data+Driven+Problem+Solver;Full+Stack+Learner&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
 
-Building Machine Learning projects
+---
 
-Practicing Data Structures & Algorithms
+## 💫 About Me
 
-Interested in predictive modeling & AI applications
+- 🎓 Information Technology Student  
+- 🐍 Passionate about **Python & Machine Learning**
+- 📊 Interested in **Data Analytics & Predictive Modeling**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building real-world ML & Full Stack projects
+- 📍 Based in India  
 
-## 🛠️ Tech Stack
+📫 **Connect with me:**  
+🔗 LinkedIn: https://linkedin.com/in/vyshnavi09  
 
-Languages: Python, SQL, Java, C
-Tools: Pandas, NumPy, Matplotlib, Scikit-Learn, Git, PowerBi
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Customer Churn Analysis & Prediction](https://github.com/Vyshnavi2395/Customer-Churn-Analysis-Prediction---Python)
+Machine learning model to analyze customer behavior and predict churn to reduce business revenue loss.
+
+### 🏠 [House Price Prediction](https://github.com/Vyshnavi2395/House-Price-prediction)
+Regression-based ML project to estimate housing prices using real-world datasets.
+
+### 🎯 [Recommendation System in Python](https://github.com/Vyshnavi2395/Recommendation-System-in-Python)
+Built a recommendation engine inspired by platforms like Netflix & Amazon.
+
+### 🛒 [MERN E-commerce Website](https://github.com/Vyshnavi2395/Mern-E-commerce-website)
+Full-stack e-commerce web application using MongoDB, Express, React & Node.js.
+
+### 👁 [WatchGuard AI Surveillance (Forked Project)](https://github.com/Vyshnavi2395/watchguard-ai-surveillance)
+AI-powered surveillance system using computer vision concepts.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vyshnavi2395&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vyshnavi2395&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vyshnavi2395&theme=github-dark&hide_border=true)
+---
+
+## 🌟 Current Focus
+
+- Improving ML model performance  
+- Strengthening DSA & problem-solving skills  
+- Exploring AI-driven applications  
+- Building scalable backend systems  
+
+---
+
+## 🎯 Personal Motto
+
+Learn → Build → Improve → Repeat 🔁
